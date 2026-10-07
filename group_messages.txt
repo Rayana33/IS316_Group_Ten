@@ -1,3 +1,4 @@
 IS316 - Group Ten
 
 Rayana: git and github are so easy to use!
+Joory: Git helps us keep a history of our project.
