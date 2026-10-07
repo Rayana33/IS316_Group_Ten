@@ -3,3 +3,4 @@ IS316 - Group Ten
 Rayana: git and github are so easy to use!
 Joory: Git helps us keep a history of our project.
 Judy: Git makes it easier to track changes and collaborate on projects.
+Rahaf: Git helps us work together and manage project changes.
